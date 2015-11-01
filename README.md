@@ -7,3 +7,4 @@ Self-education project where different examples of functionality found on the we
 * Selenium WebDriver
 * Git
 * Jenkins CI
+* Allure
