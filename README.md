@@ -6,5 +6,5 @@ Self-education project where different examples of functionality found on the we
 * TestNG
 * Selenium WebDriver
 * Git
-* Jenkins CI
+* Travis CI
 * Allure
