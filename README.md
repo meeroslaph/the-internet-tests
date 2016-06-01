@@ -8,3 +8,4 @@ Self-education project where different examples of functionality found on the we
 * Git
 * Travis CI
 * Allure
+* jQuery Growl
